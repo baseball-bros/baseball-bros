@@ -1,5 +1,7 @@
 ## Discover Baseball Bros: The Ultimate Online Multiplayer Baseball Experience
 
+![Baseball Bros Game](https://github.com/baseball-bros/baseball-bros/blob/main/baseball-bros-gameplay-2.jpg?raw=true)
+
 Step up to the plate and immerse yourself in the world of **Baseball Bros**—a fast-paced, online multiplayer baseball game that delivers both classic sports excitement and modern, humorous twists. Developed by the renowned Blue Wizard Digital, Baseball Bros is part of the popular "Bros" series that includes Basket Bros, Soccer Bros, and Football Bros. With its easy-to-learn controls, engaging franchise mode, and online multiplayer action, this game offers an experience that is both nostalgic and refreshingly contemporary. Ready to swing for the fences? Head over to [Baseball Bros](https://baseball-bros.org) and start playing today!
 
 ---
@@ -20,6 +22,8 @@ While traditional baseball games focus on realism and simulation, Baseball Bros 
 
 ## Baseball Bros Gameplay
 
+![Baseball Bros Gameplay](https://github.com/baseball-bros/baseball-bros/blob/main/baseball-bros-gameplay-3.jpg?raw=true)
+
 At its core, **Baseball Bros** is all about delivering a fast-paced, multiplayer baseball experience that combines strategic team management with real-time, action-packed gameplay. The game invites you to step into a digital ballpark where every pitch, swing, and slide counts.
 
 ### Online Multiplayer Action
@@ -31,6 +35,8 @@ One of the game’s standout features is its robust online multiplayer mode. In 
 Baseball Bros is engineered for speed. Matches are brisk, with every play leading to split-second decisions and dynamic in-game moments. The game captures the essence of baseball by offering moments of intense action—whether you're sprinting between bases, executing a perfectly timed slide, or delivering a lightning-fast pitch. This emphasis on fast-paced gameplay ensures that every match is filled with adrenaline and excitement.
 
 ### Franchise Mode and Team Management
+
+![Baseball Bros Team Management](https://github.com/baseball-bros/baseball-bros/blob/main/baseball-bros-gameplay-1.jpg?raw=true)
 
 For those who prefer a more strategic approach, Baseball Bros offers a franchise mode. In this mode, you can build and manage your own team, making decisions that affect player lineups, team strategy, and overall game performance. This mode adds depth to the game, providing a layer of management and strategy that goes beyond the immediate action on the field. It’s the perfect way for players who love both the on-field action and the behind-the-scenes decision-making.
 
@@ -68,7 +74,7 @@ Baseball Bros is a web-based, online multiplayer baseball game developed by Blue
 
 ### Who Developed Baseball Bros?
 
-The game is developed by Blue Wizard Digital, a Canadian studio known for creating fun and engaging web-based games such as Shell Shockers and other titles in the "Bros" series.
+The game is developed by [Blue Wizard Digital](https://bluewizard.com/), a Canadian studio known for creating fun and engaging web-based games such as Shell Shockers and other titles in the "Bros" series.
 
 ### How Can I Play Baseball Bros?
 
